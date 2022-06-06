@@ -1,2 +1,2 @@
-# jogo-da-memoria-cobra-kai-dio
-Desafio de Projeto DIO - Jogo da Memória
+# Jogo da Memória - Cobra Kai
+Desafio de Projeto DIO - Jogo da Memória desenvolvido com HTML, CSS e JavaScript.
